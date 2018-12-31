@@ -415,6 +415,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [TRex](https://github.com/renancaraujo/trex-flame) [52⭐] - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo).
 - [Crush](https://github.com/boeledi/flutter_crush) [80⭐] - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) [25⭐] - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
+- [Game of Fifteen](https://github.com/AChep/15puzzle) - Classic slide (15) puzzle by [Artem Chepurnoy](https://github.com/AChep).
 
 ## Utilities
 
